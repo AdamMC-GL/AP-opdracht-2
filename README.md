@@ -2,7 +2,7 @@
 
 Be sure to have the CMake file unclude all the cpp files.
 
-## baseline warehouse.cpp
+## warehouse.cpp
 
 This file contains all the code used to complete the UML diagram
 
@@ -11,7 +11,7 @@ This file contains all the code used to complete the UML diagram
     get_remaining_space(): returns how much capacity is left in a pallet slot.
     rearrange_shelf(): sorts a shelf based on the item count of each pallet.
 
-## baseline main.cpp
+## main.cpp
 
 contains 2 Catch2 unit tests
 
